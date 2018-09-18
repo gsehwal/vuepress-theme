@@ -1,6 +1,7 @@
 ---
-
+sidebar: auto
 ---
+
 
 
 # LIVING GOOD DOCUMENTATION IS HARD
