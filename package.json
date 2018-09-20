@@ -10,15 +10,11 @@
     "docs:build": "vuepress build docs"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://gitlab.com/iwilfried/vuepress-zero.git"
+    "type": "git"
   },
   "keywords": [],
   "author": "Wilfried Ifland",
   "license": "MIT",
-  "bugs": {
-    "url": "https://gitlab.com/iwilfried/vuepress-zero/issues"
-  },
   "devDependencies": {
     "markdown-it": "^8.4.2",
     "vuepress": "^0.14.2"
